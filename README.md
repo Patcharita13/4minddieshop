@@ -33,6 +33,8 @@
   </div>
 </div>
 </header>
+
+  
 <section>
   <div class="info1">
     <div class="container">
@@ -42,9 +44,10 @@
    </div>
  </div>
 </section>
+
 <section>
   <div class="info2">
-    <div class="container>
+    <div class="container">
       <img src="" alt="" width=100 height=130>
       <h1>It's about my website more than.</h1>
       <p>CLIKE TO ME, For lerning to web devolerper.</p>
