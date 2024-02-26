@@ -1,10 +1,9 @@
-<! DOCTYPE HTML>
+<!DOCTYPE HTML>
 <html lang="en"> 
 <head> 
         <meta charset="UTF-8">
-        <meta name="viewport"          content="width=device-width, initial   sclae=1.0">
-         <meta http-equiv="X-UA-Compatible" content="ie-egde">
-         <title>4minddieshop</title> 
+        <meta name="viewport"          content="width=device-width, initial sclae=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie-egde"
 </head> 
 
 <body> 
@@ -31,7 +30,7 @@
     <div class="header"> 
         <div class="container"> 
            <div class="header_area">
-            <img src=" IMG_20240116_093300_953.jpg"
+            <img src=" IMG_20240116_093300_953.jpg" width=100 height=130
             <h1>My Store</h1> 
             <p>If you know about store more than Clike Pls</p> 
         </div> 
@@ -42,7 +41,7 @@
     <div class="info1"> 
         <div class="container"> 
             <div class="info1_text"> 
-                <img src=" IMG_20240116_093300_953.jpg" alt"width=100 height=130> 
+                <img src=" IMG_20240116_093300_953.jpg" width=100 height=130> 
                 <h1>It's about frist strat</h1> 
                 <p>if you know,Clike come to lernning about start firts</p> 
             </div> 
@@ -54,7 +53,7 @@
     <div class="info2">
         <div class="container>
            <div class="info2_text">
-             <img src=" IMG_20240116_093300_953.jpg" alt"" width=100 height=130>
+             <img src=" IMG_20240116_093300_953.jpg" width=100 height=130>
              <h1>Contact to stroe</h1>
               <p>for sale in future and talking about idea.</p>
             </div>
